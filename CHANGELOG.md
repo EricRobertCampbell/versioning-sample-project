@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/EricRobertCampbell/versioning-sample-project/compare/v1.3.0...v1.4.0) (2021-12-08)
+
+
+### Features
+
+* added another one ([1a1bb3e](https://github.com/EricRobertCampbell/versioning-sample-project/commit/1a1bb3eecde36f4b4b08a016c808895b32aad9f3))
+* versioning now works on a protected branch ([cd62b82](https://github.com/EricRobertCampbell/versioning-sample-project/commit/cd62b82486110bfaff6b25f3ef71baff230a2461))
+
 ## [1.3.0](https://github.com/EricRobertCampbell/versioning-sample-project/compare/v1.2.0...v1.3.0) (2021-12-08)
 
 
