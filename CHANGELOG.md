@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/EricRobertCampbell/versioning-sample-project/compare/v1.2.0...v1.3.0) (2021-12-08)
+
+
+### Features
+
+* added another one ([2db4944](https://github.com/EricRobertCampbell/versioning-sample-project/commit/2db49440427d0b601fdcf79772882045d04b6d99))
+
 ## 1.2.0 (2021-12-07)
 
 
